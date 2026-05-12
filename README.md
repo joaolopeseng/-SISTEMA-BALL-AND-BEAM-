@@ -3,7 +3,7 @@ A presente atividade tem por objeto o desenvolvimento de um sistema Ball and Bea
 
 ## 🎥 Vídeo do funcionamento
 
-[▶️ Ver o carrinho seguindo a linha] https://youtube.com/shorts/5My7dQN6xVg?si=4XTwxCRSOLtU6x11
+[▶️ Execução do sistema Ball and Beam] https://youtube.com/shorts/5My7dQN6xVg?si=4XTwxCRSOLtU6x11
 
 ## 📸 Imagens do sistema Ball and Beam
 
